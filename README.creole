@@ -1,4 +1,4 @@
-====**Homepage**====
+==== Homepage ====
 [[http://dev.bukkit.org/server-mods/seattlesummer/]]
 \\\\
 ====**Summary**====
@@ -9,12 +9,12 @@ The plugin very simply allows you to set a maximum duration for rain cycles. Rai
 \\\\
 I created this plugin due to popular demand on my server. Nobody really wanted to get rid of rain completely, but it is very annoying when it rains for 3 minecraft days straight.
 \\\\
-==== **Features** ====
+==== Features ====
 * Limits maximum rain duration
 * MultiWorld Compatibility
 * Optional world exclusion
 \\\\
-==== **Changelog** ====
+==== Changelog ====
 * Version 1.6
 ** Updated config handler to keep up with newest bukkit features
 * Version 1.5.1
@@ -29,16 +29,16 @@ I created this plugin due to popular demand on my server. Nobody really wanted t
 * Version 1.0
 ** Initial release
 \\\\
-==== **Future Plans** ====
+==== Future Plans ====
 * Nothing that I can think of, trying to keep it simple.
 \\\\
-==== **Installation** ====
+==== Installation ====
 # Download the latest jar file
 # Reload your server
 # (//Optional//) Edit config.yml to a different maximum duration (defaults to 5 minutes) or add worlds to exclude
 # (//Optional//) Reload server again to reload config
 \\\\
-==== **Upgrade** ====
+==== Upgrade ====
 # Download the latest jar file
 # Reload your server
 # (//Optional//) Edit config.yml to a different maximum duration (defaults to 5 minutes) or add worlds to exclude
