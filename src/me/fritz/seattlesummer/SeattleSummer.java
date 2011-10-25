@@ -16,7 +16,10 @@ import org.bukkit.plugin.java.JavaPlugin;
  */
 public class SeattleSummer extends JavaPlugin{
 
-	public SeattleSummerConfigHandler config;
+    /**
+     * Config object
+     */
+    public SeattleSummerConfigHandler config;
 	private SeattleSummerWeatherListener weatherListener = new SeattleSummerWeatherListener(this);
 	Logger log = Logger.getLogger("Minecraft");
 	

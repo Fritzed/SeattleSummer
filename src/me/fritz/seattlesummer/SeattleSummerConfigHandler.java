@@ -10,7 +10,6 @@ import org.bukkit.configuration.file.FileConfiguration;
  * @author Fritz
  *
  */
-
 public class SeattleSummerConfigHandler {
 
 	private Integer configRainDuration;
@@ -19,7 +18,7 @@ public class SeattleSummerConfigHandler {
 	
 	/** Loads configuration, creates default config file if none exists.
 	 * 
-	 * @param target The world which the timer is started for.
+         * @param instance The main SeattleSummer plugin instance
 	 */
 	@SuppressWarnings("unchecked")
 	public SeattleSummerConfigHandler (SeattleSummer instance) {
