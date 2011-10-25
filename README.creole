@@ -1,7 +1,7 @@
 ==== Homepage ====
 [[http://dev.bukkit.org/server-mods/seattlesummer/]]
 \\\\
-====**Summary**====
+==== Summary ====
 //Limit the maxiumum rain duration//\\
 The plugin is called "Seattle Summer" because just like a summer in Seattle, it will still rain. It just won't rain for quite so long.
 \\\\
