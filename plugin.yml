@@ -1,0 +1,5 @@
+name: SeattleSummer
+main: me.fritz.seattlesummer.SeattleSummer
+version: 1.6
+author: Fritz
+description: A plugin to limit the maximum length of time that a storm can last.
